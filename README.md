@@ -7,8 +7,9 @@ This repo is a sample automated chat bot which generates answers based on user i
 
 
 This project is using AWS -
-    * Amazon Lex
-    * Lambda function
+
+ * Amazon Lex
+ * Lambda function
 
 ## Usage
 
